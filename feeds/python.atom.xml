@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>wulipc</title><link href="wulipc.com/" rel="alternate"></link><link href="wulipc.com/feeds/python.atom.xml" rel="self"></link><id>wulipc.com/</id><updated>2010-12-05T19:30:00+08:00</updated><entry><title>My super title</title><link href="wulipc.com/my-super-post.html" rel="alternate"></link><published>2010-12-05T19:30:00+08:00</published><author><name>Alexis Metaireau</name></author><id>tag:,2010-12-03:wulipc.com/my-super-post.html</id><summary type="html">&lt;p&gt;This is the content of my super blog post.
+this is my first page!
+i love you&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
