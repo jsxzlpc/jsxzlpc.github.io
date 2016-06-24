@@ -4,77 +4,77 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2016-06-24T15:20:11-00:00</lastmod>
+<loc>http://jsxzlpc.github.io/</loc>
+<lastmod>2016-06-24T15:37:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2016-06-24T15:20:11-00:00</lastmod>
+<loc>http://jsxzlpc.github.io/archives.html</loc>
+<lastmod>2016-06-24T15:37:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2016-06-24T15:20:11-00:00</lastmod>
+<loc>http://jsxzlpc.github.io/tags.html</loc>
+<lastmod>2016-06-24T15:37:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2016-06-24T15:20:11-00:00</lastmod>
+<loc>http://jsxzlpc.github.io/categories.html</loc>
+<lastmod>2016-06-24T15:37:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/about-me.html</loc>
+<loc>http://jsxzlpc.github.io/pages/about-me.html</loc>
 <lastmod>2013-04-18T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>
 
 <url>
-<loc>/my-super-post.html</loc>
+<loc>http://jsxzlpc.github.io/my-super-post.html</loc>
 <lastmod>2010-12-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>/category/python.html</loc>
+<loc>http://jsxzlpc.github.io/category/python.html</loc>
 <lastmod>2010-12-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/pelican.html</loc>
+<loc>http://jsxzlpc.github.io/tag/pelican.html</loc>
 <lastmod>2010-12-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/publishing.html</loc>
+<loc>http://jsxzlpc.github.io/tag/publishing.html</loc>
 <lastmod>2010-12-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/alexis-metaireau.html</loc>
+<loc>http://jsxzlpc.github.io/author/alexis-metaireau.html</loc>
 <lastmod>2010-12-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/conan-doyle.html</loc>
+<loc>http://jsxzlpc.github.io/author/conan-doyle.html</loc>
 <lastmod>2010-12-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
